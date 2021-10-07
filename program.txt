@@ -1,0 +1,7 @@
+void main()
+{
+    int a, b, c;
+    if (a a>= b)
+    a = b - 5;
+    printf(a);
+} 
